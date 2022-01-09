@@ -6,7 +6,8 @@ General print() function software that displays Python functionality of displayi
 
 # Development Environment
 
-Python 3.9.5 64-bit on Mac
+Python 3.9.5 64-bit on Mac.
+
 print() function with text 
 
 
