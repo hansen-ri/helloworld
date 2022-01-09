@@ -2,7 +2,7 @@
 
 General print() function software that displays Python functionality of displaying coded text into Terminal.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7azYetjD_ZQ)
 
 # Development Environment
 
